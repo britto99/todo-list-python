@@ -13,7 +13,6 @@ Aplicativo de lista de tarefas com interface gráfica, desenvolvido em Python. P
 - Tkinter  
 - SQLite
 
-## Como usar
 ```bash
 git clone https://github.com/SEU_USUARIO/todo-list-python.git
 cd todo-list-python
